@@ -1,13 +1,13 @@
 
 game.png
-size: 512, 256
+size: 256, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/edit_nigeria
+NationIcons/Nigeria
   rotate: false
   xy: 4, 4
-  size: 301, 167
-  orig: 301, 167
+  size: 167, 167
+  orig: 167, 167
   offset: 0, 0
   index: -1
